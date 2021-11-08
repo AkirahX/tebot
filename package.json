@@ -1,0 +1,19 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "file-type": "^16.5.3",
+    "form-data": "^4.0.0",
+    "reverse-image-search-google": "^1.0.3",
+    "telegraf": "^4.4.2"
+  }
+}
